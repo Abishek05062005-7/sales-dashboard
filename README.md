@@ -13,3 +13,5 @@ Upload these dataset in your power BI.
 
 step 4:
 create dashboard.
+
+![Image](https://github.com/user-attachments/assets/4e3dc0b8-57f4-4b0c-bccd-f04fb04316ad)
